@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Blastsmp-ZnTu.aternos.me
-",
+    "ip": "Blastsmp-ZnTu.aternos.me" ,
     "port": 56068,
     "version": "1.20.1",
     "try-creative": false
